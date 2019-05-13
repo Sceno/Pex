@@ -1,2 +1,2 @@
 # Pex
-Projeto Pex solicitado por João Lopes Soares
+Projeto Pex solicitado por João Lopes Soares.
